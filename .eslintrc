@@ -1,0 +1,10 @@
+{
+  "globals": {
+    "Page": false,
+    "Component": false,
+    "wx": false,
+    "App": false,
+    "getApp": false,
+    "getCurrentPages": false
+  }
+}

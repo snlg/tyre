@@ -1,0 +1,8 @@
+node_modules/
+tmp/**/*
+.DS_Store
+*.DS_Store
+npm-debug.log
+dist/
+.idea/
+src/node_modules/**
